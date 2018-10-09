@@ -1,0 +1,24 @@
+body {
+    font-family: 'Song Myung', serif;
+}
+
+h1 {
+    color:#58098f
+}
+
+.jumbotron {
+background-image: url(NorthwesternWildcats.jpg);
+background-attachment: fixed;
+background-size:cover;
+}
+
+h1.display-2 {
+    padding: 60px;
+    color: white;
+    opacity: 1;
+}
+
+.logo {
+    height:250px;
+    padding: 0px;
+}
